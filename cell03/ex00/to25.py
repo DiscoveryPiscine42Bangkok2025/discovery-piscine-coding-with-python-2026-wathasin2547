@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Docstring for to25.py"""
 def main():
     print("Enter a number less than 25")
     user_input = input()
