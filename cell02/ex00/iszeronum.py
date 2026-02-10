@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def main():
     user_input = input()
     number = int(user_input)
